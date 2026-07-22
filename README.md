@@ -44,4 +44,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kritika901/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Kritika901/DSA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
