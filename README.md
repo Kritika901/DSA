@@ -31,6 +31,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kritika901/DSA/tree/master/0001-two-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Kritika901/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,16 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kritika901/DSA/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Kritika901/DSA/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Kritika901/DSA/tree/master/0435-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Kritika901/DSA/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
