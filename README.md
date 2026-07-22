@@ -40,6 +40,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kritika901/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Kritika901/DSA/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,4 +49,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kritika901/DSA/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kritika901/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
