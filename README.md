@@ -24,3 +24,15 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 - Trees
 - Graphs
 - Dynamic Programming
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kritika901/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Kritika901/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
