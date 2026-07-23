@@ -32,6 +32,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0001-two-sum](https://github.com/Kritika901/DSA/tree/master/0001-two-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kritika901/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0704-binary-search](https://github.com/Kritika901/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Kritika901/DSA/tree/master/0435-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Kritika901/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
