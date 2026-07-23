@@ -35,6 +35,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0035-search-insert-position](https://github.com/Kritika901/DSA/tree/master/0035-search-insert-position) |
 | [0435-non-overlapping-intervals](https://github.com/Kritika901/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Kritika901/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kritika901/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,5 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kritika901/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kritika901/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Kritika901/DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Kritika901/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
