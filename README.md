@@ -31,6 +31,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kritika901/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Kritika901/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kritika901/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kritika901/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kritika901/DSA/tree/master/0035-search-insert-position) |
@@ -46,6 +47,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kritika901/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Kritika901/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kritika901/DSA/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
@@ -79,4 +81,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0035-search-insert-position](https://github.com/Kritika901/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Kritika901/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kritika901/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kritika901/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
