@@ -56,6 +56,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Kritika901/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kritika901/DSA/tree/master/0009-palindrome-number) |
 ## Stack
 |  |
