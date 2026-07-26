@@ -58,6 +58,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0007-reverse-integer](https://github.com/Kritika901/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kritika901/DSA/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Kritika901/DSA/tree/master/0069-sqrtx) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0033-search-in-rotated-sorted-array](https://github.com/Kritika901/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kritika901/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kritika901/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kritika901/DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Kritika901/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kritika901/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Trie
