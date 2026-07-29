@@ -38,6 +38,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0435-non-overlapping-intervals](https://github.com/Kritika901/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Kritika901/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kritika901/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Kritika901/DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0069-sqrtx](https://github.com/Kritika901/DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Kritika901/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kritika901/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Kritika901/DSA/tree/master/0875-koko-eating-bananas) |
 ## Trie
 |  |
 | ------- |
