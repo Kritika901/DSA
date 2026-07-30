@@ -101,5 +101,10 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Kritika901/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Kritika901/DSA/tree/master/0905-sort-array-by-parity) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Kritika901/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
