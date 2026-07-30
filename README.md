@@ -106,5 +106,6 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kritika901/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Kritika901/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
