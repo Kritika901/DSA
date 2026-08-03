@@ -60,6 +60,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kritika901/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Kritika901/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kritika901/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Kritika901/DSA/tree/master/0069-sqrtx) |
@@ -110,6 +111,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kritika901/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kritika901/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Kritika901/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kritika901/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -120,5 +122,6 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kritika901/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Kritika901/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
