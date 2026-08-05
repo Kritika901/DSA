@@ -126,4 +126,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kritika901/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Kritika901/DSA/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Kritika901/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
