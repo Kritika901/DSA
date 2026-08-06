@@ -129,5 +129,6 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Kritika901/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Kritika901/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
